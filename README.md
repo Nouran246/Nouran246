@@ -5,7 +5,7 @@
 
 <!-- Introduction Section -->
 <p align="center">
- Hey there! 👋 I'm Nouran, a sophomore at university. I love diving into new things and learning as much as I can. Always up for exploring and expanding my horizons. Looking forward to the experiences that lie ahead!🌟
+ Hey there! 👋 I'm Nouran, a junior at university. I love diving into new things and learning as much as I can. Always up for exploring and expanding my horizons. Looking forward to the experiences that lie ahead!🌟
 </p>
 
 <!-- Skills Section -->
