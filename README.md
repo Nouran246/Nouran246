@@ -26,7 +26,7 @@
 <h3 align="center">How to get in touch with me:</h3>
 <p align="center">
   <a href="mailto:nouranhafez2004@gmail.com">
-   <img src="https://img.shields.io/badge/Email-nouranhafez2004%40gmail.com-red?style=flat"></a>
+   <img src="https://img.shields.io/badge/Email-nouran.hassan.hafez%40gmail.com-red?style=flat"></a>
 <a href="https://www.linkedin.com/in/nouran-hafez-907311283/">
 <img src="https://img.shields.io/badge/LinkedIn-Nouran%20Hafez-blue?style=flat&logo=linkedin&logoColor=white" />
 </a>
