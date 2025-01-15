@@ -18,19 +18,23 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NoSQL-7A1F1F?style=flat&logo=nosql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-FFB94E?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Qt%20Creator-41CD52?style=flat&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/-XAMPP-F00?style=flat&logo=xampp&logoColor=white" />
 </p>
-
-
 
 <!-- Contact Section -->
 <h3 align="center">How to get in touch with me:</h3>
 <p align="center">
-  <a href="mailto:nouranhafez2004@gmail.com">
+  <a href="mailto:nouran.hassan.hafez@gmail.com">
    <img src="https://img.shields.io/badge/Email-nouran.hassan.hafez%40gmail.com-red?style=flat"></a>
 <a href="https://www.linkedin.com/in/nouran-hafez-907311283/">
 <img src="https://img.shields.io/badge/LinkedIn-Nouran%20Hafez-blue?style=flat&logo=linkedin&logoColor=white" />
 </a>
-
-
-
 </p>
