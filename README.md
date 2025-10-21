@@ -9,49 +9,59 @@
 </p>
 
 <!-- Skills Section -->
+<!-- Skills Section -->
 <h3 align="center">My Skills:</h3>
 <p align="center">
+  <!-- AI & Data Science -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white" />
 
+  <!-- Programming & Web Development -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white" />
   <img src="https://img.shields.io/badge/-NoSQL-7A1F1F?style=flat&logo=nosql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+
+  <!-- Cloud & Tools -->
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat&logo=azurefunctions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  
+
+  <!-- Tools & Misc -->
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-Jupyter-FFB94E?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/-Qt%20Creator-41CD52?style=flat&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/-XAMPP-F00?style=flat&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=flat&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat&logo=azurefunctions&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-
-
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 </p>
+
 
 <!-- Contact Section -->
 <h3 align="center">How to get in touch with me:</h3>
