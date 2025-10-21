@@ -35,6 +35,9 @@
   <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/-Qt%20Creator-41CD52?style=flat&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/-XAMPP-F00?style=flat&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+
 
 </p>
 
