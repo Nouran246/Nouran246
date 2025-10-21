@@ -37,6 +37,12 @@
   <img src="https://img.shields.io/badge/-XAMPP-F00?style=flat&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=flat&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
 
 
 </p>
