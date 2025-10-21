@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/-Qt%20Creator-41CD52?style=flat&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/-XAMPP-F00?style=flat&logo=xampp&logoColor=white" />
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nouran246.nouran246)
 
 </p>
 
