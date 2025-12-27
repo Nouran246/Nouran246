@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=&color=1E90FF&size=25&center=true&vCenter=true&width=600&height=60&lines=Nouran+Hassan;CS+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=&color=1E90FF&size=25&center=true&vCenter=true&width=600&height=60&lines=Nouran+Hassan;AI+/+Machine+Learning+Engineer" />
 </p>
 
 <!-- Introduction Section -->
